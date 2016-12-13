@@ -1,13 +1,10 @@
-name: 
+name: cxcworkflow1
 
 dependencies:
   - python=3.5
   - numpy
   - pandas
   - matplotlib
-  - urllib
   - IPython
-  - shutil
-  - re
   - astropy
   - bokeh
